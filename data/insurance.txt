@@ -1,0 +1,5 @@
+Insurance policy basics:
+- Coverage: lists what events/expenses are paid by insurer.
+- Premium: periodic payment to maintain coverage.
+- Claim process: file claim -> documents -> insurer assesses -> payout.
+- Exclusions: what is NOT covered (pre-existing, certain treatments).

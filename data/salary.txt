@@ -1,0 +1,8 @@
+Salary components:
+- Basic salary: fixed pay component.
+- HRA (House Rent Allowance): often 40% of basic (varies).
+- Special allowances: additional monthly allowances.
+- Deductions: provident fund, professional tax, income tax.
+How to calculate:
+- Annual gross = monthly_gross * 12
+- Annual net = annual_gross - (annual_deductions)
